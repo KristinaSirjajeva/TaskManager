@@ -1,0 +1,11 @@
+package main;
+
+public enum Action {
+    ALL_PENDING_TASKS,
+    ADD_TASK_TO_LIST,
+    REMOVE_TASK_FROM_LIST,
+    MARK_AS_COMPLETED,
+    ALL_COMPLETED_TASKS,
+    LIST_ALL_TASKS,
+    EXIT
+}
